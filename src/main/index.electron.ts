@@ -606,6 +606,7 @@ const openWindow = ({
         nodeIntegration: false,
       },
       backgroundColor,
+      autoHideMenuBar: true,
       ...args,
     })
     const [, contentHeight] = window.getContentSize()

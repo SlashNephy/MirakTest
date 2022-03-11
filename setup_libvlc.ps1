@@ -1,5 +1,5 @@
-$LIBVLC_VER = "3.0.16"
-$LIBVLC_VER_EXTRA = "3"
+$LIBVLC_VER = "3.0.17"
+$LIBVLC_VER_EXTRA = "2"
 $OS_NAME = "windows"
 
 # Setup VLC

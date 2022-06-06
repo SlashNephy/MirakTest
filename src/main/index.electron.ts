@@ -679,6 +679,9 @@ const openWindow = ({
         nodeIntegration: false,
       },
       backgroundColor,
+      titleBarStyle:
+        name === ROUTES["ContentPlayer"] ? "hiddenInset" : undefined,
+      titleBarOverlay: name === ROUTES["ContentPlayer"] ? true : undefined,
       ...args,
     })
     const [, contentHeight] = window.getContentSize()

@@ -84,7 +84,7 @@
   "dependencies": {
     "@headlessui/react": "^1.5.0",
     "aribb24.js": "^1.9.8",
-    "axios": "^0.26.1",
+    "axios": "^1.6.0",
     "base64-arraybuffer": "^1.0.2",
     "clsx": "^1.1.1",
     "dayjs": "^1.11.1",
